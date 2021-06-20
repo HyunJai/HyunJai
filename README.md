@@ -27,8 +27,5 @@
 * M.S in Department of Computer Science and Engineering, SKKU
 </br>
 
-<br>
-	<div align=center>
-		[![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
-	</div>
-</br>
+
+[![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
