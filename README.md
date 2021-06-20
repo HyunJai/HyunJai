@@ -27,5 +27,4 @@
 * M.S in Department of Computer Science and Engineering, SKKU
 </br>
 
-## ProJect ##
-* [Car Counting](https://github.com/winston1214/Car_Counting)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
