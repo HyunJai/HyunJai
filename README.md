@@ -6,7 +6,7 @@
 
 <div align=center>
 	
-### ⚒️ Tech Stacks ⚒️ ###</br>
+## ⚒️ Tech Stacks ⚒️ ##</br>
 	
 	
 
@@ -22,7 +22,6 @@
 
 <br>
 
-### DeepLearning Researcher ###
-* DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY) Computer Vision and Artificial Intelligence lab
-
+## DeepLearning Researcher ## 
+* DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY) and SKKU
 </br>
