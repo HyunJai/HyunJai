@@ -6,7 +6,7 @@
 
 <div align=center>
 	
-## ⚒️ Tech Stacks ⚒️ ##</br>
+## ⚒️ Tech Stacks ⚒️ </br>
 	
 	
 
