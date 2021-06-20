@@ -28,4 +28,4 @@
 </br>
 
 
-[![HyunJai's github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats">
+[![HyunJai's github stats]<https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats>
