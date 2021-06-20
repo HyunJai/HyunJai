@@ -6,7 +6,7 @@
 
 <div align=center>
 	
-### ⚒️ Tech Stacks ⚒️ ###
+### ⚒️ Tech Stacks ⚒️ ###</br>
 	
 	
 
@@ -18,9 +18,8 @@
 <img src="https://img.shields.io/badge/Jetson Nano-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jetson Xavier-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>
 
-</div><p>
-
-	
+</div>
+</br>
 DeepLearning Researcher
 * DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY) Computer Vision and Artificial Intelligence lab
 
