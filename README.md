@@ -21,8 +21,8 @@
 <br>
 
 ## DeepLearning Researcher ## 
-* DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY)
-* M.S in Department of Computer Science and Engineering, SKKU
+- #### DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY)
+- #### M.S in Department of Computer Science and Engineering, SKKU
 </br>
 
 
