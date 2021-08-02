@@ -25,5 +25,11 @@
 - #### M.S in Department of Computer Science and Engineering, SKKU
 </br>
 
+- 데이터 분석 대회
+  |대회|대회명|순위|상위|
+  |---|------|----|----|
+  |Dacon|제 2회 컴퓨터비전 학습 경진대회|43/216|19%|
+  |Dacon|카메라 이미지 품질 향상 AI 경진대회|28/235|11%|
+
 
 [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
