@@ -32,4 +32,4 @@
   |Dacon|카메라 이미지 품질 향상 AI 경진대회|28/235|11%|
 
 
-[![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
+    [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
