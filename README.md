@@ -1,3 +1,9 @@
+<div align='center'>
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=HyunJai's%20GitHub&fontSize=50&animation=scaleIn)
+	
+</div>
+
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunJai)](https://hits.seeyoufarm.com) 
@@ -24,6 +30,7 @@
 - #### DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY)
 - #### M.S in Department of Computer Science and Engineering, SKKU
 </br>
+</div>
 
 - 데이터 분석 대회
   |대회|대회명|순위|상위|
