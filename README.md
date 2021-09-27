@@ -27,9 +27,9 @@
 <br>
 
 ## DeepLearning Researcher ## 
-- #### [2019. 08. ~ 2019. 12.] Intern Researcher in AICT(Advanced Institute Of Convergence Technology)
-- #### [2020. 03. ~ 2021. 03.] Computer Vision Researcher in AICT(Advanced Institute Of Convergence Technology)
-- #### [2021. 03. ~          ] M.S in Department of Computer Science and Engineering, SKKU(성균관대학교 소프트웨어학과)
+- #### [2019. 08. ~ 2019. 12.] Intern Researcher in AICT(차세대 융합기술연구원 나노바이오 연구실)
+- #### [2020. 03. ~ 2021. 03.] Computer Vision Researcher in AICT(차세대 융합기술연구원 컴퓨터비전 및 인공지능 연구실)
+- #### [2021. 03. ~          ] M.S in Department of Computer Science and Engineering, SKKU(성균관대학교 소프트웨어학과 석사과정)
 </br>
 </div>
 
@@ -37,7 +37,8 @@
   |대회|대회명|종류|순위|상위|
   |---|------|----|----|----|
   |Dacon|[제 2회 컴퓨터비전 학습 경진대회](https://dacon.io/competitions/official/235697/overview/description)|Classification|43/216|19%|
-  |Dacon|[카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/overview/description)|PSNR|18/235|8%|
+  |Dacon|[LG AI Research 카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/overview/description)|PSNR|18/235|8%|
+  |Dacon|[Samsung Advanced Institute of Technology 물성예측 경진대회](https://dacon.io/competitions/official/235789/overview/description)|MAE|40/222|18%|
 
 
     [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
