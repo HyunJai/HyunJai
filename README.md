@@ -27,8 +27,9 @@
 <br>
 
 ## DeepLearning Researcher ## 
-- #### DeepLearning Researcher in AICT(ADVANCED INSTITUTE OF CONVERGENCE TECHNOLOGY)
-- #### M.S in Department of Computer Science and Engineering, SKKU
+- #### [2019. 08. ~ 2019. 12.] Intern Researcher in AICT(Advanced Institute Of Convergence Technology)
+- #### [2020. 03. ~ 2021. 03.] Computer Vision Researcher in AICT(Advanced Institute Of Convergence Technology)
+- #### [2021. 03. ~          ] M.S in Department of Computer Science and Engineering, SKKU(성균관대학교 소프트웨어학과)
 </br>
 </div>
 
