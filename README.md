@@ -33,14 +33,14 @@
 </br>
 </div>
 
-- 인공지능 경진대회
+## 인공지능 경진대회 ##
   |대회|대회명|종류|순위|상위|
   |---|------|----|----|----|
   |Dacon|[제 2회 컴퓨터비전 학습 경진대회](https://dacon.io/competitions/official/235697/overview/description)|Classification|43/216|19%|
   |Dacon|[LG AI Research 카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/overview/description)|PSNR|18/235|8%|
   |Dacon|[Samsung Advanced Institute of Technology 물성예측 경진대회](https://dacon.io/competitions/official/235789/overview/description)|MAE|40/222|18%|
   
-- 수상
+## 수상 ##
   |연도|대회명|주최|순위|종류|
   |---|------|----|----|----|
   |2021|[제 1회 아토피 중증도 판별 알고리즘 경진대회](https://sam.healthbigdata.org/)|NIA/서울대학교 의료빅데이터연구센터|3rd|Classification|
