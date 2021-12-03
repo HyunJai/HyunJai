@@ -46,4 +46,4 @@
   |2021|[제 1회 아토피 중증도 판별 알고리즘 경진대회](https://sam.healthbigdata.org/)|NIA/서울대학교 의료빅데이터연구센터|3rd|Classification|
 
 
-    [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
+   [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
