@@ -41,9 +41,10 @@
   |Dacon|[Samsung Advanced Institute of Technology 물성예측 경진대회](https://dacon.io/competitions/official/235789/overview/description)|MAE|40/222|18%|
   
 ## 수상 ##
-  |연도|대회명|주최|순위|종류|
+  |연도|대회명|주최|상훈|종류|
   |---|------|----|----|----|
-  |2021|[제 1회 아토피 중증도 판별 알고리즘 경진대회](https://sam.healthbigdata.org/)|NIA/서울대학교 의료빅데이터연구센터|3rd|Classification|
+  |2021|[제 1회 아토피 중증도 판별 알고리즘 경진대회](https://sam.healthbigdata.org/)|NIA/서울대학교 의료빅데이터연구센터|동상|Classification|
+  |2021|[인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/aidea)|과학기술정보통신부/NIA|NIA원장상|Service|
 
 
    [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
