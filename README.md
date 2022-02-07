@@ -39,6 +39,7 @@
   |Dacon|[제 2회 컴퓨터비전 학습 경진대회](https://dacon.io/competitions/official/235697/overview/description)|Classification|43/216|19%|
   |Dacon|[LG AI Research 카메라 이미지 품질 향상 AI 경진대회](https://dacon.io/competitions/official/235746/overview/description)|PSNR|18/235|8%|
   |Dacon|[Samsung Advanced Institute of Technology 물성예측 경진대회](https://dacon.io/competitions/official/235789/overview/description)|MAE|40/222|18%|
+  |Dacon|[LG 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회](https://dacon.io/competitions/official/235870/leaderboard)|Marco F1|19/344|6%|
   
 ## 수상 ##
   |연도|대회명|주최|상훈|종류|
