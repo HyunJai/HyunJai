@@ -46,6 +46,7 @@
   |---|------|----|----|----|
   |2021|[제 1회 아토피 중증도 판별 알고리즘 경진대회](https://sam.healthbigdata.org/)|NIA/서울대학교 의료빅데이터연구센터|동상|Classification|
   |2021|[2021 인공지능 데이터 활용 경진대회](http://aihub-competition.or.kr/aidea)|과학기술정보통신부/NIA|NIA 원장상|Service|
+  |2022|[제2회 연구개발특구 인공지능 경진대회 AI SPARK 챌린지](http://aifactory.space/competition/detail/1946)|과학기술정보통신부/연구개발특구진흥재단|우수상|Object Detection|
 
 
    [![HyunJai's github stats](https://github-readme-stats.vercel.app/api?username=HyunJai)](https://github.com/HyunJai/github-readme-stats)
